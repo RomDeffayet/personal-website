@@ -12,4 +12,4 @@ I have joined the IRLab of the University in Amsterdam in January 2022 as a PhD 
 
 Previously I have been working as a research engineer at Naver Labs Europe in Grenoble and at Huawei in Stockholm.
 
-![Fern in Hand](/static/img/fern-in-hand.jpeg "Fern in Hand")
+![](/static/img/fern-in-hand.jpeg)
