@@ -78,12 +78,27 @@
   margin-top: 0;
 }
 
-.highlighted {
+.highlight_blue {
   position: relative;;
 }
 
-.highlighted::before {
-  background-color: attr(data-color);
+.highlight_blue::before {
+  background-color: #5183f5;
+  position: absolute;
+  content: "";
+  height: 0.6em;
+  width: 100%;
+  z-index: -1;
+  bottom: 0;
+  transform: translate(-0.4em, 0.2em);
+}
+
+.highlight_purple {
+  position: relative;;
+}
+
+.highlight_purple::before {
+  background-color: #af002d;
   position: absolute;
   content: "";
   height: 0.6em;
