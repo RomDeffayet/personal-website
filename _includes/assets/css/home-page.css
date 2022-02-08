@@ -78,6 +78,10 @@
   margin-top: 0;
 }
 
+.highlighted {
+  background_color: #9423F8;
+}
+
 @media (min-width: 1024px) {
   .hero__subtitle {
     margin-top: 3rem;
