@@ -83,7 +83,7 @@
 }
 
 .highlighted::before {
-  background-color: attr(highlight-color);
+  background-color: attr(data-color);
   position: absolute;
   content: "";
   height: 0.6em;
