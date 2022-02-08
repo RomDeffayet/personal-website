@@ -78,11 +78,11 @@
   margin-top: 0;
 }
 
-.highlight_blue {
+.highlighted {
   position: relative;;
 }
 
-.highlight_blue::before {
+.highlighted::before {
   background-color: #5183f5;
   position: absolute;
   content: "";
@@ -93,19 +93,12 @@
   transform: translate(-0.3em, 0em);
 }
 
-.highlight_purple {
-  position: relative;;
+#blue::before {
+  background-color: #5183f5;
 }
 
-.highlight_purple::before {
-  background-color: #c79191;
-  position: absolute;
-  content: "";
-  height: 0.6em;
-  width: 100%;
-  z-index: -1;
-  bottom: 0;
-  transform: translate(-0.3em, 0em);
+#purple::before {
+  background-color: #D23065;
 }
 
 @media (min-width: 1024px) {
