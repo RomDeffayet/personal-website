@@ -90,7 +90,7 @@
   width: 100%;
   z-index: -1;
   bottom: 0;
-  transform: translate(-0.3em, 0.1em);
+  transform: translate(-0.3em, 0em);
 }
 
 .highlight_purple {
@@ -98,7 +98,7 @@
 }
 
 .highlight_purple::before {
-  background-color: #af002d;
+  background-color: #c79191;
   position: absolute;
   content: "";
   height: 0.6em;
