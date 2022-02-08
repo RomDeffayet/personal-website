@@ -65,7 +65,7 @@
 
 .hero__title {
   margin-top: 0;
-  padding-bottom : 1cm;
+  padding-bottom : 0.3em;
 }
 
 @media (min-width: 1024px) {
