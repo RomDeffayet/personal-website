@@ -79,7 +79,18 @@
 }
 
 .highlighted {
-  background-color: #5183f5;
+  position: relative;;
+}
+
+.highlighted::before {
+  background-color: #af002d;
+  position: absolute;
+  content: "";
+  height: 0.5em;
+  width: 100%;
+  z-index: -1;
+  bottom: 0;
+  transform: translate(-0.5em, 0.5em);
 }
 
 @media (min-width: 1024px) {
