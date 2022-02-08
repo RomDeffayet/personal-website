@@ -10,6 +10,6 @@ eleventyNavigation:
 ---
 I have joined the IRLab of the University in Amsterdam in January 2022 as a PhD student under the supervision of Prof. Maarten de Rijke, in partnership with Naver Labs Europe where Jean-Michel Renders is advising me.
 
-Previously I have been working as a research engineer at Naver Labs Europe in Grenoble and at Huawei in Stockholm.
+Previously, I had been working as a research engineer at Naver Labs Europe in Grenoble and at Huawei in Stockholm.
 
 ![](/static/img/fern-in-hand.jpeg)
