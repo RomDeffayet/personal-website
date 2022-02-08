@@ -83,7 +83,6 @@
 }
 
 .highlighted::before {
-  background-color: #5183f5;
   position: absolute;
   content: "";
   height: 0.5em;
@@ -98,7 +97,7 @@
 }
 
 #purple::before {
-  background-color: #D23065;
+  background-color: #d23065;
 }
 
 @media (min-width: 1024px) {
