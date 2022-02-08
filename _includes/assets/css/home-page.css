@@ -79,14 +79,14 @@
 }
 
 .highlighted {
-  position: relative;;
+  position: relative;
 }
 
 .highlighted::before {
   background-color: #5183f5;
   position: absolute;
   content: "";
-  height: 0.6em;
+  height: 0.5em;
   width: 100%;
   z-index: -1;
   bottom: 0;
